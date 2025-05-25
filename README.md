@@ -24,6 +24,12 @@ cd mcp-server-metatrader-4
 npm install
 ```
 
+## Inspector
+
+```bash
+npx @modelcontextprotocol/inspector --cli node ./build/index.js --method tools/list
+```
+
 ## Project Structure
 
 ```
